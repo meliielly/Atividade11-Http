@@ -1,0 +1,43 @@
+body{
+    /*background-color: rgb(163, 235, 211);*/
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 1000px;
+    font-family: "Rye", cursive;
+    font-size: 25px;
+    color: #33313b;
+    margin-top: 200px;
+    margin-bottom: auto;
+    margin-left: 430px;
+    background-image: url(img/fundo.jpg);
+  
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.button{
+    font-family: "Rye", cursive;
+    color: #33313b;
+    background-color: #c6a494;
+    font-size: 20px;
+    border-radius: 5px;
+    size: 10px;
+    margin-top: 20px;
+}
+
+.form {
+    margin-top: 20px;
+}

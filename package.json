@@ -1,0 +1,25 @@
+{
+  "name": "atividade11-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meliiely/atividade11-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meliielly/atividade11-http/issues"
+  },
+  "homepage": "https://github.com/meliiely/atividade11-http#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
